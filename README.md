@@ -17,7 +17,7 @@ Usage
 
 To start:
 
-	$ python3 startme.python3
+	$ python3 startme.py
 	
 Everything you need to know is included in python script!
 
